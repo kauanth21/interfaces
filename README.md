@@ -55,3 +55,9 @@ Este projeto tem como objetivo demonstrar o uso do microcontrolador RP2040 para 
 ## Observação
 Os testes podem ser realizados tanto no hardware real quanto no simulador **WOKWI**, utilizando `diagram.json` para validação virtual antes da execução no dispositivo físico.
 
+## Link do video 
+
+(https://youtu.be/FpD6mXQGMQo?si=cgskC7u_tjA7bBdD)
+## 👨‍💻 Autor
+**Kauan Teixeira da Hora**
+
